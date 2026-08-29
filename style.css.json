@@ -44,3 +44,26 @@ button{
 button{
     bacground-color
 }
+button:hover {
+    background-color: #d4d4d4;
+}
+
+.operador {
+    background-color: #ff9500;
+    color: white;
+}
+
+.operador:hover {
+    background-color: #e08500;
+}
+
+.igual {
+    grid-row: span 2;
+    height: 100%;
+    background-color: #28a745;
+    color: white;
+}
+
+.igual:hover {
+    background-color: #218838;
+}
